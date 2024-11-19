@@ -25,6 +25,6 @@ JavaScript
         - can not declare const with same name or repited
         - const variable can not change or modify   
 
-     06 - String Indexing  
+    06 - String Indexing  
         - can not declare const with same name or repited
         - const variable can not change or modif     
