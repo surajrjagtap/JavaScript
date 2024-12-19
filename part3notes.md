@@ -10,3 +10,4 @@ example
 - Fetching backend data having some time so it can be blocking code.
 - so we used asynchronous in javascript.
 
+02 setInterval - setInterval is used to execute a function at specified time interval. - it is used to create a loop in javascript. - it handle by web API provided by Browser.
