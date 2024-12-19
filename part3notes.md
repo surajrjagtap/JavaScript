@@ -5,3 +5,8 @@ synchronous programming vs asynchronous programming
 setTimeout
 - setTimeout provided and handle by web browser.
 - setTimeout is used to execute a function after a specified time period
+
+example
+- Fetching backend data having some time so it can be blocking code.
+- so we used asynchronous in javascript.
+
