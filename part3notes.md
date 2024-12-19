@@ -11,3 +11,9 @@ example
 - so we used asynchronous in javascript.
 
 02 setInterval - setInterval is used to execute a function at specified time interval. - it is used to create a loop in javascript. - it handle by web API provided by Browser.
+
+Example
+changing background color of body and stop changing button can stop it.
+take a random color code and set interval for changing the background color.
+
+
